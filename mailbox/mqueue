@@ -1,0 +1,12 @@
+FROM <devjain@gmail.com>
+RCPT TO:<abc@def>
+DATA
+From <devjain@gmail.com> Thu Feb 23 20:02:44 2017
+hi
+how are you
+
+
+
+
+- devanshu
+.
